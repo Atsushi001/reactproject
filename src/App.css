@@ -17,16 +17,8 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 .AppHeader {
-  height: 40px;
-  color:darkslategray;
+  height: 60px;
+  background-color:darkslategray;
+  margin: 0 auto;
 }
